@@ -1,0 +1,15 @@
+D:\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+D:\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+D:\Projects\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojAssemblyReference.cache
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\MainWindow.g.cs
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\App.g.cs
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition_MarkupCompile.cache
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition_MarkupCompile.lref
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\MainWindow.baml
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.g.resources
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+D:\Projects\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
